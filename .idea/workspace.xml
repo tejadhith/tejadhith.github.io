@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f925536-fd37-4afe-9a02-21a211698baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/Infinite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons8-infinity-96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683402061515</updated>
-      <workItem from="1683402062588" duration="23690000" />
+      <workItem from="1683402062588" duration="26285000" />
     </task>
     <servers />
   </component>
