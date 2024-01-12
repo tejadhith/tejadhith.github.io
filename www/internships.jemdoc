@@ -1,9 +1,0 @@
-# jemdoc: menu{MENU}{internships.html}
-= Internships
-
-== Incoming Associate Machine Learning Engineer - Intern at [https://www.servicenow.com/ ServiceNow], Jan-Jul 2024
-
-== Machine Learning Intern at [https://www.lendingkatalyst.com/ Lending Katalyst], Summer 2023
-- Developed a rule-based solution for *Property ID Matching* with \∼99\% accuracy and *Measurement Matching*
-with \∼95\% accuracy on the text data extracted from the property deeds.
-- Explored on *Address Matching* and performed data analysis on the text data.
