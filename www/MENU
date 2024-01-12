@@ -1,0 +1,33 @@
+Home
+    About               [index.html]
+    Curriculum Vitae    [index.html]
+    #download jemdoc     [download.html]
+    #version/bug info    [revision.html]
+    #contact             [contact.html]
+
+Research
+    Publications        [publications.html]
+    #running jemdoc      [using.html]
+    #example page        [example.html]
+    #cheat sheet         [cheatsheet.html]
+    #extra syntax        [extra.html]
+
+Experience
+    Internships         [internships.html]
+    PORs                [por.html]
+    Volunteering        [volunteering.html]
+    #html changes        [htmlchanges.html]
+    #adding a menu       [menu.html]
+    #modelines           [modelines.html]
+
+Projects
+    Course              [course.html]
+    Personal            [personal.html]
+    #vim, make           [stuff.html]
+    #latex equations     [latex.html]
+    #tables              [tables.html]
+
+Blogs
+    Blogs               [blogs.html]
+
+# vim: et

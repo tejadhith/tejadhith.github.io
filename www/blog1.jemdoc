@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{blog1.html}
+= My Interview Experience for Machine Learning Intern at ServiceNow
+
+== Round 1: Online Test
+There were 2 sections, one containing 3\/5 basic Machine Learning theory based questions and the other section containing a
+lambda expression based question and a +pandas+ library based question. (We were given options to choose between Python based
+assessment \[recommended\] and C\/C\+\+ based assessment)
+
+== Round 2: Technical Interview 1 (The followings aren't in the exact order)
+Introduced Myself! Then, following questions were asked,
+- What is your understanding of Machine Learning?
+- Do you contribute to Open Source?
+- How do you keep updated on recent technologies?
+- Which programming language are you comfortable with?
+- If you wanna find sum of expenses in a month, would you use arrays or lists?
+- What is the difference between arrays and lists?
+- Given an array, find the maximum difference between two elements in the array such that smaller
+element appears before the larger element. (Was required to optimize the solution to O(n) time complexity) -- Coded Live in
+Python
+- Do you do Competitive Programming?
+
+== Round 3: Technical Interview 2
+
+== Round 4: HM Interview
